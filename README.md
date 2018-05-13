@@ -1,5 +1,5 @@
 # AUS-FunsionAPP
-AUS-FunsionAPP
+AUS 官方网站：https://AUS.NowTime.cc
 
 # API 文档
 > 1. 由于我没空去写代码额，所以如果你会 `Lua` 你可以尝试参考这个 *API 文档* 写相关代码。
