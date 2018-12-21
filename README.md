@@ -12,3 +12,19 @@ AUS 官方网站：https://AUS.NowTime.cc
 ## 2. API `V1` 开发文档
  1. [检查更新 API 文档](/V1/API_POST.md)
  2. [获取公告 API 文档](API_UPDATE.md)
+
+# Lua json 解析类库
+> 代码在 `lib/json.lua`
+ ## 使用方法
+  1. 将 `json.lua` 文件复制到 `Fusion APP` 工程文件夹下，然后看下方示例代码
+  ```
+  json = require "json"
+  
+  -- table 转 json
+  json.encode({ 1, 2, 3, { x = 10 } }) --Returns '[1,2,3,{"x":10}]'
+  
+  -- json 转 table
+  json.decode('[1,2,3,{"x":10}]') -- Returns { 1, 2, 3, { x = 10 } }
+  
+  --详情请查看 https://github.com/rxi/json.lua#usage
+  ```
