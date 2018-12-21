@@ -7,7 +7,7 @@ AUS 官方网站：https://AUS.NowTime.cc
 > 2. 如果你愿意分享你写的代码，欢迎 `Pulll Request` 或加入官方交流QQ群：773641216，上传你写好的相关代码
 
 ## 1. API `V2` 开发文档
- 1. [[检查更新 API 文档]检查 APP 是否有更新](/V2/API_UPDATE.md)
+ 1. [检查更新 API 文档](/V2/API_UPDATE.md) 2018-12-21 发布
 
 ## 2. API `V1` 开发文档
  1. [检查更新 API 文档](/V1/API_POST.md)
